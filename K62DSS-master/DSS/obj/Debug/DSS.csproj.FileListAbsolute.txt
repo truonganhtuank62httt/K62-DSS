@@ -1,0 +1,24 @@
+C:\Users\Admin\source\repos\K62DSS\DSS\bin\Debug\DSS.exe
+C:\Users\Admin\source\repos\K62DSS\DSS\bin\Debug\DSS.pdb
+C:\Users\Admin\source\repos\K62DSS\DSS\obj\Debug\DSS.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\K62DSS\DSS\obj\Debug\DSS.Form1.resources
+C:\Users\Admin\source\repos\K62DSS\DSS\obj\Debug\DSS.GUI.GMenhDe.resources
+C:\Users\Admin\source\repos\K62DSS\DSS\obj\Debug\DSS.Properties.Resources.resources
+C:\Users\Admin\source\repos\K62DSS\DSS\obj\Debug\DSS.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\K62DSS\DSS\obj\Debug\DSS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\K62DSS\DSS\obj\Debug\DSS.exe
+C:\Users\Admin\source\repos\K62DSS\DSS\obj\Debug\DSS.pdb
+C:\Users\Admin\source\repos\K62DSS\DSS\obj\Debug\DSS.GUI.GLuat.resources
+C:\Users\Admin\source\repos\K62DSS\DSS\obj\Debug\DSS.GUI.GMain.resources
+C:\Users\ozozo\OneDrive\Máy tính\K62DSS-master\DSS\bin\Debug\DSS.exe
+C:\Users\ozozo\OneDrive\Máy tính\K62DSS-master\DSS\bin\Debug\DSS.pdb
+C:\Users\ozozo\OneDrive\Máy tính\K62DSS-master\DSS\obj\Debug\DSS.csprojAssemblyReference.cache
+C:\Users\ozozo\OneDrive\Máy tính\K62DSS-master\DSS\obj\Debug\DSS.Form1.resources
+C:\Users\ozozo\OneDrive\Máy tính\K62DSS-master\DSS\obj\Debug\DSS.GUI.GLuat.resources
+C:\Users\ozozo\OneDrive\Máy tính\K62DSS-master\DSS\obj\Debug\DSS.GUI.GMain.resources
+C:\Users\ozozo\OneDrive\Máy tính\K62DSS-master\DSS\obj\Debug\DSS.GUI.GMenhDe.resources
+C:\Users\ozozo\OneDrive\Máy tính\K62DSS-master\DSS\obj\Debug\DSS.Properties.Resources.resources
+C:\Users\ozozo\OneDrive\Máy tính\K62DSS-master\DSS\obj\Debug\DSS.csproj.GenerateResource.cache
+C:\Users\ozozo\OneDrive\Máy tính\K62DSS-master\DSS\obj\Debug\DSS.csproj.CoreCompileInputs.cache
+C:\Users\ozozo\OneDrive\Máy tính\K62DSS-master\DSS\obj\Debug\DSS.exe
+C:\Users\ozozo\OneDrive\Máy tính\K62DSS-master\DSS\obj\Debug\DSS.pdb
